@@ -32,9 +32,12 @@
       <div class="code-sample">
         <h3>Example: Fetch movies with JavaScript</h3>
         <pre id="codeSample">
+
+const BASE_URL = 'https://vaernewijck.github.io/json-statham/api';
+          
 const fetchData = async () => {
   try {
-    const response = await fetch('https://vaernewijck.github.io/json-statham/api/movies.json');
+    const response = await fetch(`${BASE_URL}/movies.json`);
     const data = await response.json();
     console.log(data);
   } catch (error) {
