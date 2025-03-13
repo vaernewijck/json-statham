@@ -1,0 +1,39 @@
+{
+  "awards": [
+    {
+      "name": "Teen Choice Award",
+      "category": "Choice Movie: Villain",
+      "year": 2015,
+      "movie": "Furious 7",
+      "result": "Nominated"
+    },
+    {
+      "name": "Critics' Choice Movie Award",
+      "category": "Best Actor in an Action Movie",
+      "year": 2012,
+      "movie": "Safe",
+      "result": "Nominated"
+    },
+    {
+      "name": "People's Choice Awards",
+      "category": "Favorite Action Movie Star",
+      "year": 2017,
+      "movie": null,
+      "result": "Nominated"
+    },
+    {
+      "name": "CinemaCon Award",
+      "category": "Action Star of the Year",
+      "year": 2013,
+      "movie": null,
+      "result": "Won"
+    },
+    {
+      "name": "Taurus World Stunt Award",
+      "category": "Hardest Hit",
+      "year": 2003,
+      "movie": "The Transporter",
+      "result": "Won"
+    }
+  ]
+}

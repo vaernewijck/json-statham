@@ -1,0 +1,84 @@
+{
+  "movies": [
+    {
+      "title": "Lock, Stock and Two Smoking Barrels",
+      "year": 1998,
+      "director": "Guy Ritchie",
+      "role": "Bacon",
+      "boxOffice": "$28.1 million",
+      "imdbRating": 8.2
+    },
+    {
+      "title": "Snatch",
+      "year": 2000,
+      "director": "Guy Ritchie",
+      "role": "Turkish",
+      "boxOffice": "$83.6 million",
+      "imdbRating": 8.3
+    },
+    {
+      "title": "The Transporter",
+      "year": 2002,
+      "director": "Louis Leterrier, Corey Yuen",
+      "role": "Frank Martin",
+      "boxOffice": "$43.9 million",
+      "imdbRating": 6.8
+    },
+    {
+      "title": "The Italian Job",
+      "year": 2003,
+      "director": "F. Gary Gray",
+      "role": "Handsome Rob",
+      "boxOffice": "$176.1 million",
+      "imdbRating": 7.0
+    },
+    {
+      "title": "Crank",
+      "year": 2006,
+      "director": "Mark Neveldine, Brian Taylor",
+      "role": "Chev Chelios",
+      "boxOffice": "$42.9 million",
+      "imdbRating": 7.0
+    },
+    {
+      "title": "The Expendables",
+      "year": 2010,
+      "director": "Sylvester Stallone",
+      "role": "Lee Christmas",
+      "boxOffice": "$274.5 million",
+      "imdbRating": 6.4
+    },
+    {
+      "title": "Fast & Furious 7",
+      "year": 2015,
+      "director": "James Wan",
+      "role": "Deckard Shaw",
+      "boxOffice": "$1.516 billion",
+      "imdbRating": 7.1
+    },
+    {
+      "title": "Hobbs & Shaw",
+      "year": 2019,
+      "director": "David Leitch",
+      "role": "Deckard Shaw",
+      "boxOffice": "$760.7 million",
+      "imdbRating": 6.5
+    },
+    {
+      "title": "Wrath of Man",
+      "year": 2021,
+      "director": "Guy Ritchie",
+      "role": "H",
+      "boxOffice": "$104 million",
+      "imdbRating": 7.1
+    },
+    {
+      "title": "The Meg 2: The Trench",
+      "year": 2023,
+      "director": "Ben Wheatley",
+      "role": "Jonas Taylor",
+      "boxOffice": "$398.3 million",
+      "imdbRating": 5.0
+    }
+  ]
+}
