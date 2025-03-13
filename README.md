@@ -1,3 +1,5 @@
+![json](assets/json-jason.png)
+
 # JSON Statham API
 
 A simple static JSON API providing information about actor Jason Statham.
